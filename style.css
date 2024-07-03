@@ -17,11 +17,25 @@ img{
 header{
     justify-content: space-around;
     align-items: center;
-  
+  background-image: url(./Rectangle\ 5.png);
 }
+.intro{
+    display: flex;
+    background-color: white;
+    border-width: 12px;
 
 
-
+    margin: 18px 26px 27px 4px;
+    padding: 77px;
+}
+#grupo{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-image: url(./Rectangle\ 7.png);
+    text-align: center;
+    margin: 0%;
+}
+.img-grupo{}
 
 
 
