@@ -1,8 +1,24 @@
-
-
-
-
-
+:root{
+--white:(var(--white))
+--rafaela:gray;
+--branco:white;
+}
+ body{
+    background-color: black;
+    margin: 0%;
+ }
+*{
+    margin: 1%;
+}
+img{
+    width: 35%;
+    border: 6px solid gray;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+  
+}
 
 
 
