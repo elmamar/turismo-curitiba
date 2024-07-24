@@ -19,7 +19,7 @@ img{
     
     justify-content: space-around;
     align-items: center;
-    background-image: url(./now\ unite4d.png);
+   
     }
 .intro{
     display: flex;
@@ -33,7 +33,7 @@ img{
 
 
 footer{
-    background-image: url(./Rectangle\ 9.png);
+    background-image: ;
     color: gray;
     margin: 0;
 }
