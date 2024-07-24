@@ -31,13 +31,7 @@ img{
     padding: 77px;
 }
 
-#grupo{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    background-image: url(./Rectangle\ 8.png);
-    text-align: center;
- margin: 0;
-}
+
 footer{
     background-image: url(./Rectangle\ 9.png);
     color: gray;
