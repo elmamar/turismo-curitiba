@@ -6,7 +6,7 @@ root{
 
 body{
     background-color:var(--red) ;
-    margin: 0;
+    margin: 1;
  }
  *{
     margin: 1%;
