@@ -13,7 +13,7 @@ body{
 }
 img{
     width: 35%;
-    border: 6px solid gray;
+    border: 6px solid beige;
 }
  header {
     
@@ -49,12 +49,12 @@ width: 40%;
 
 footer{
     background-image: url(./Rectangle\ 9.png);
-    color: #9b100f;
+    color: gray;
     margin: 0;
 }
 
 header a{
-  color: #9b100f;
+  color: gray;
     text-decoration: none;
 }
 
