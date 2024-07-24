@@ -1,13 +1,80 @@
-body{
-    background-color: aliceblue;
+root{
+    --white:var(--branco);
+    --mariana: blue;
+    --branco: white; 
 }
+
 body{
+    background-color:var(--red) ;
+    margin: 0;
+ }
+ *{
+    margin: 1%;
+}
+img{
+    width: 35%;
+    border: 6px solid gray;
+}
+ header {
+    
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(./now\ unite4d.png);
+    }
+.intro{
+    display: flex;
+    background-color: var(--branco);
+    border-width: 12px;
+   
+    
+    margin: 18px 26px 27px 4px;
+    padding: 77px;
+}
+
+#grupo{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-image: url(./Rectangle\ 8.png);
     text-align: center;
+ margin: 0;
 }
-header h1{
-    background-color: black;
-    border-radius: 10cap;
+
+.img-grupo{
+width: 40%;
+
+
+
 }
+
+
+footer{
+    background-image: url(./Rectangle\ 9.png);
+    color: #9b100f;
+    margin: 0;
+}
+
+header a{
+  color: #9b100f;
+    text-decoration: none;
+}
+
+.primerio{
+    display: flex;
+    align-items: center;
+}
+
+.segundo{
+    text-align: right;
+}
+
+footer p{
+    margin: 0;
+}
+.intro {
+    text-align: center;
+
+}
+
 
 
 
